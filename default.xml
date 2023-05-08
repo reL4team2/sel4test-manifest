@@ -15,7 +15,7 @@
   <project name="musllibc.git" path="projects/musllibc" revision="3d6b939e8f05cb1d2a1a8c8166609bf2e652e975" upstream="sel4" dest-branch="sel4"/>
   <project name="nanopb" path="tools/nanopb" remote="nanopb" revision="1466e6f953835b191a7f5acf0c06c941d4cd33d9" upstream="master" dest-branch="refs/tags/0.4.3"/>
   <project name="opensbi" path="tools/opensbi" remote="opensbi" revision="a98258d0b537a295f517bbc8d813007336731fa9" upstream="refs/tags/v0.8" dest-branch="refs/tags/v0.8"/>
-  <project name="seL4_c_impl.git" path="kernel" remote="seL4_kernel" revision="3e4b4d3ff49aac7fc7af5e036ecb7007732cdd80" upstream="master" dest-branch="master"/>
+  <project name="seL4_c_impl.git" path="kernel" remote="seL4_kernel" revision="4942b6992d0d6d9e905864b666438e7ea7d8ad9b" upstream="master" dest-branch="master"/>
   <project name="rel4_kernel.git" path="rel4_kernel" revision="main" remote="seL4_kernel" upstream="sel4" dest-branch="main"/>
   <project name="seL4_libs.git" path="projects/seL4_libs" revision="2ca525429e7b4f5abbc1fc694d3aeaff5eb6e7db" upstream="master" dest-branch="master"/>
   <project name="seL4_tools.git" path="tools/seL4" revision="2c213a9e784ae56b625572516128c15711da80c1" upstream="master" dest-branch="master">
